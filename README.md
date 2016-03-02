@@ -5,6 +5,8 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-a-
 
 http://opensourceforu.efytimes.com/2010/02/openldap-part-1-setting-up-directory-server/ ( instructions for running ldap clients or servers using fedora on Linux)
 
+https://github.com/IntersectAustralia/acdata/wiki/Setting-up-OpenLDAP
+
 Introduction to OpenLDAP
 
 A directory is a database optimized for reading, browsing, and searching. LDAP stands for Lightweight Directory Access Protocol. It is a lightweight protocol for accessing directory services, specifically X.500 based directory services. LDAP runs over TCP/IP.
