@@ -6,6 +6,7 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-a-
 http://opensourceforu.efytimes.com/2010/02/openldap-part-1-setting-up-directory-server/ ( instructions for running ldap clients or servers using fedora on Linux)
 
 https://github.com/IntersectAustralia/acdata/wiki/Setting-up-OpenLDAP
+http://krypted.com/mac-security/starting-openldap-on-mac-os-x-client/
 
 Introduction to OpenLDAP
 
