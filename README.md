@@ -3,7 +3,7 @@ A repo documenting notes on creating an Open LDAP server and connecting it to AW
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-a-basic-ldap-server-on-an-ubuntu-12-04-vps
 
-http://opensourceforu.efytimes.com/2010/02/openldap-part-1-setting-up-directory-server/
+http://opensourceforu.efytimes.com/2010/02/openldap-part-1-setting-up-directory-server/ ( instructions for running ldap clients or servers using fedora on Linux)
 
 Introduction to OpenLDAP
 
