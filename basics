@@ -1,18 +1,19 @@
-## Introduction to LDAP
+Introduction to LDAP
 
 A directory server must have the means for adding, modifying, and deleting information. This information is assumed to be primarily a resource for reading and not
 writing to the directory server.
 
-#### A Unique Name: The DN, or Distinguished name
+A Unique Name: The DN, or Distinguished name
 
 The DN reflects where the record is in the directory. A DN is composed of a combination of directory information, and looks something like:
 
 dn: o=Acme Services, l=Chicago, st=Illinois, c=US
+
 dn: o=Acme Services, l=Springfield, st=Illinois, c=US
 
 Note: DNs are not case sensitive
 
-#### An Example LDAP Entry or record
+An Example LDAP Entry or record
 
 dn: o=Acme Services, l=Chicago, st=Illinois, c=US
 o: Acme Services
